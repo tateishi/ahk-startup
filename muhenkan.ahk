@@ -13,7 +13,12 @@ vk1d & p::End
 vk1d & i::PgDn
 vk1d & o::PgUp
 
-vk1d & Space::Esc
+vk1d & Space::
+{
+	Send "{vk1d}"
+	Send "{Esc}"
+}
+
 vk1d & @::AppsKey
 
 vk1d & Enter::LButton
