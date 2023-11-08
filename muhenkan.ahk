@@ -49,8 +49,6 @@ vk1d & sc028::  ;; sc028 is colon
 }
 
 vk1d & c:: Run 'calc.exe'
-vk1d & g:: Run 'c:\Program Files\Google\Chrome\Application\chrome.exe'
-
 
 ;; henkan
 vk1c & h::Left
