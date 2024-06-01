@@ -26,6 +26,10 @@ vk1d & Enter::LButton
 vk1d & n::Browser_Back
 vk1d & m::Browser_Forward
 
+vk1d & <::Home
+vk1d & >::End
+
+
 vk1d & sc027::  ;; sc027 is semicolon
 {
   if (GetKeyState("Shift", "P")) {
