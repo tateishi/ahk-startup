@@ -22,6 +22,7 @@ vk1d & Space::
 vk1d & @::AppsKey
 
 vk1d & Enter::LButton
+vk1d & RSHIFT::RButton
 
 vk1d & n::Browser_Back
 vk1d & m::Browser_Forward
