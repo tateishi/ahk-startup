@@ -66,3 +66,6 @@ vk1c & Space::Esc
 vk1c & @::AppsKey
 
 vk1c & c:: Run 'calc.exe'
+
+;; Alt + Ctrl + h => Backspace
+!^h::BS
