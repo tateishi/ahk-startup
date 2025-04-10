@@ -66,6 +66,3 @@ vk1c & Space::Esc
 vk1c & @::AppsKey
 
 vk1c & c:: Run 'calc.exe'
-
-;; 右シフトキーをALTキーに変換
-;; RShift::Alt
